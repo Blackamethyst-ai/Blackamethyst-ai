@@ -1,0 +1,186 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=DICO%20ANGELO&fontSize=70&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Sovereign%20AI%20Infrastructure&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Dico Angelo"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Building+the+infrastructure+layer+for+agentic+AI" alt="Typing SVG" />
+
+<br/>
+
+[![Website](https://img.shields.io/badge/METAVENTIONS.AI-0d1117?style=for-the-badge&logo=safari&logoColor=00d9ff)](https://metaventionsai.com)
+[![Twitter](https://img.shields.io/badge/@dicoangelo-0d1117?style=for-the-badge&logo=x&logoColor=00d9ff)](https://twitter.com/dicoangelo)
+[![LinkedIn](https://img.shields.io/badge/dico--angelo-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/dico-angelo)
+[![Substack](https://img.shields.io/badge/Newsletter-0d1117?style=for-the-badge&logo=substack&logoColor=00d9ff)](https://substack.com/@thedicoangelo)
+
+<br/>
+
+<a href="https://github.com/Blackamethyst-ai?tab=followers">
+  <img src="https://img.shields.io/github/followers/Blackamethyst-ai?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d9ff" alt="Followers"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Blackamethyst-ai&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## The Antigravity Ecosystem
+
+> *"Let the invention be hidden in your vision."*
+
+I build **sovereign AI infrastructure** — systems that compound intelligence, maintain context across sessions, and operate with full user agency. No vendor lock-in. No data exploitation. Just tools that work for you.
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                           ANTIGRAVITY ARCHITECTURE                               │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                  │
+│    ┌─────────────┐         ┌─────────────┐         ┌─────────────┐             │
+│    │   OS-App    │◄───────►│ Agent Core  │◄───────►│  Research   │             │
+│    │  Sovereign  │         │  Unified    │         │   Gravity   │             │
+│    │  Interface  │         │  Orchestr.  │         │  Framework  │             │
+│    └──────┬──────┘         └──────┬──────┘         └──────┬──────┘             │
+│           │                       │                       │                     │
+│           └───────────────────────┼───────────────────────┘                     │
+│                                   │                                             │
+│                          ┌────────▼────────┐                                    │
+│                          │  The Decosystem │                                    │
+│                          │  Data Streams • │                                    │
+│                          │  Synthesis  •   │                                    │
+│                          │  Sovereign Out  │                                    │
+│                          └────────┬────────┘                                    │
+│                                   │                                             │
+│              ┌────────────────────┼────────────────────┐                        │
+│              │                    │                    │                        │
+│       ┌──────▼──────┐      ┌──────▼──────┐      ┌──────▼──────┐                │
+│       │   Career    │      │  Chrome     │      │ Metaventions│                │
+│       │   Coach     │      │  History    │      │   Landing   │                │
+│       │ Antigravity │      │  Export     │      │             │                │
+│       └─────────────┘      └─────────────┘      └─────────────┘                │
+│                                                                                  │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## Flagship Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [OS-App](https://github.com/Blackamethyst-ai/OS-App) `Private`
+**Sovereign AI Operating System**
+
+Voice-native, multi-agent interface powered by Gemini Live & ElevenLabs. Your personal command layer.
+
+`TypeScript` `React` `Gemini` `ElevenLabs`
+
+</td>
+<td width="50%" valign="top">
+
+### [Agent Core](https://github.com/Blackamethyst-ai/agent-core)
+**Unified Research Orchestration**
+
+CLI-first research workflows with session persistence, cross-environment sync, and Innovation Scout.
+
+`Python` `CLI` `Agentic`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ResearchGravity](https://github.com/Blackamethyst-ai/ResearchGravity)
+**Multi-Tier Research Framework**
+
+Frontier signal capture with tiered source hierarchy, cold start protocols, and synthesis workflows.
+
+`Python` `Research` `Framework`
+
+</td>
+<td width="50%" valign="top">
+
+### [CareerCoachAntigravity](https://github.com/Blackamethyst-ai/CareerCoachAntigravity)
+**Sovereign Career Intelligence**
+
+AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim agency in an algorithmic world.
+
+`TypeScript` `Next.js` `AI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Arsenal
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**AI & Intelligence**
+
+![Anthropic](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+
+**Infrastructure**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Blackamethyst-ai&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&hide=contribs" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Blackamethyst-ai&theme=transparent&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blackamethyst-ai&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" width="98%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**Building in public. Architecting the future.**
+
+<br/>
+
+*Currently focused on: Agentic AI Systems • Sovereign Infrastructure • High-Fidelity Prompt Engineering*
+
+<br/>
+
+<a href="https://metaventionsai.com">
+  <img src="https://img.shields.io/badge/Explore_Metaventions_AI-00d9ff?style=for-the-badge&logoColor=white" alt="Metaventions AI"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:1a1a2e,100:16213e&section=footer" width="100%"/>
