@@ -17,12 +17,21 @@
   <img src="https://img.shields.io/github/followers/Blackamethyst-ai?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d9ff" alt="Followers"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Blackamethyst-ai&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/Blackamethyst-ai?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&style=for-the-badge&labelColor=0d1117&color=00d9ff&query=%24.public_repos&url=https://api.github.com/users/Blackamethyst-ai" alt="Repos"/>
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blackamethyst-ai/Blackamethyst-ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blackamethyst-ai/Blackamethyst-ai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Blackamethyst-ai/Blackamethyst-ai/output/github-snake.svg" width="100%" />
+</picture>
+
+---
 
 ## The Antigravity Ecosystem
 
@@ -64,6 +73,8 @@ I build **sovereign AI infrastructure** — systems that compound intelligence, 
 ```
 
 <br/>
+
+---
 
 ## Flagship Projects
 
@@ -116,6 +127,8 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 
 <br/>
 
+---
+
 ## Tech Arsenal
 
 <div align="center">
@@ -146,20 +159,44 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 
 <br/>
 
-## Activity
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Blackamethyst-ai&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&hide=contribs" width="49%"/>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Blackamethyst-ai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+<br/><br/>
+
+<!-- Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Blackamethyst-ai&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Blackamethyst-ai&theme=transparent&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888" width="49%"/>
+
+<br/><br/>
+
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackamethyst-ai&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="40%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blackamethyst-ai&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" width="98%"/>
 
 </div>
 
 <br/>
 
+---
+
+## 3D Contribution Calendar
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blackamethyst-ai&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" width="98%"/>
+<a href="https://skyline.github.com/Blackamethyst-ai/2025">
+  <img src="https://img.shields.io/badge/View_3D_Skyline-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Skyline"/>
+</a>
 
 </div>
 
@@ -177,8 +214,11 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 
 <br/>
 
+<a href="https://github.com/Blackamethyst-ai">
+  <img src="https://img.shields.io/badge/Explore_the_Ecosystem-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explore"/>
+</a>
 <a href="https://metaventionsai.com">
-  <img src="https://img.shields.io/badge/Explore_Metaventions_AI-00d9ff?style=for-the-badge&logoColor=white" alt="Metaventions AI"/>
+  <img src="https://img.shields.io/badge/Metaventions_AI-00d9ff?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" alt="Metaventions AI"/>
 </a>
 
 </div>
