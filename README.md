@@ -82,10 +82,10 @@ I build **sovereign AI infrastructure** — systems that compound intelligence, 
 <tr>
 <td width="50%" valign="top">
 
-### [OS-App](https://github.com/Dicoangelo/OS-App) `Private`
+### [OS-App](https://github.com/Dicoangelo/OS-App) `v1.3`
 **Sovereign AI Operating System**
 
-Voice-native, multi-agent interface powered by Gemini Live & ElevenLabs. Your personal command layer.
+Voice-native, multi-agent interface with ACE, RLM, and DQ Scoring. Precision Bridge architecture for Opus-quality decisions through Haiku-budget compute.
 
 `TypeScript` `React` `Gemini` `ElevenLabs`
 
@@ -104,10 +104,10 @@ CLI-first research workflows with session persistence, cross-environment sync, a
 <tr>
 <td width="50%" valign="top">
 
-### [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity)
+### [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) `v3.5`
 **Multi-Tier Research Framework**
 
-Frontier signal capture with tiered source hierarchy, cold start protocols, and synthesis workflows.
+54 sessions, 306 papers, 3,200+ URLs. Precision Bridge research methodology with deep-dive synthesis workflows.
 
 `Python` `Research` `Framework`
 
@@ -193,7 +193,7 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 
 <br/>
 
-*Currently focused on: Agentic AI Systems • Sovereign Infrastructure • High-Fidelity Prompt Engineering*
+*Currently focused on: Precision Bridge Architectures • Multi-Agent Consensus • Recursive Language Models*
 
 <br/>
 
