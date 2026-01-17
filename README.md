@@ -13,12 +13,12 @@
 
 <br/>
 
-<a href="https://github.com/Blackamethyst-ai?tab=followers">
-  <img src="https://img.shields.io/github/followers/Blackamethyst-ai?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d9ff" alt="Followers"/>
+<a href="https://github.com/Dicoangelo?tab=followers">
+  <img src="https://img.shields.io/github/followers/Dicoangelo?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d9ff" alt="Followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Blackamethyst-ai&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<a href="https://github.com/Blackamethyst-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&style=for-the-badge&labelColor=0d1117&color=00d9ff&query=%24.public_repos&url=https://api.github.com/users/Blackamethyst-ai" alt="Repos"/>
+<img src="https://komarev.com/ghpvc/?username=Dicoangelo&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/Dicoangelo?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&style=for-the-badge&labelColor=0d1117&color=00d9ff&query=%24.public_repos&url=https://api.github.com/users/Dicoangelo" alt="Repos"/>
 </a>
 
 </div>
@@ -26,9 +26,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blackamethyst-ai/Blackamethyst-ai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blackamethyst-ai/Blackamethyst-ai/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Blackamethyst-ai/Blackamethyst-ai/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dicoangelo/Dicoangelo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dicoangelo/Dicoangelo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dicoangelo/Dicoangelo/output/github-snake.svg" width="100%" />
 </picture>
 
 ---
@@ -82,7 +82,7 @@ I build **sovereign AI infrastructure** — systems that compound intelligence, 
 <tr>
 <td width="50%" valign="top">
 
-### [OS-App](https://github.com/Blackamethyst-ai/OS-App) `Private`
+### [OS-App](https://github.com/Dicoangelo/OS-App) `Private`
 **Sovereign AI Operating System**
 
 Voice-native, multi-agent interface powered by Gemini Live & ElevenLabs. Your personal command layer.
@@ -92,7 +92,7 @@ Voice-native, multi-agent interface powered by Gemini Live & ElevenLabs. Your pe
 </td>
 <td width="50%" valign="top">
 
-### [Agent Core](https://github.com/Blackamethyst-ai/agent-core)
+### [Agent Core](https://github.com/Dicoangelo/agent-core)
 **Unified Research Orchestration**
 
 CLI-first research workflows with session persistence, cross-environment sync, and Innovation Scout.
@@ -104,7 +104,7 @@ CLI-first research workflows with session persistence, cross-environment sync, a
 <tr>
 <td width="50%" valign="top">
 
-### [ResearchGravity](https://github.com/Blackamethyst-ai/ResearchGravity)
+### [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity)
 **Multi-Tier Research Framework**
 
 Frontier signal capture with tiered source hierarchy, cold start protocols, and synthesis workflows.
@@ -114,7 +114,7 @@ Frontier signal capture with tiered source hierarchy, cold start protocols, and 
 </td>
 <td width="50%" valign="top">
 
-### [CareerCoachAntigravity](https://github.com/Blackamethyst-ai/CareerCoachAntigravity)
+### [CareerCoachAntigravity](https://github.com/Dicoangelo/CareerCoachAntigravity)
 **Sovereign Career Intelligence**
 
 AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim agency in an algorithmic world.
@@ -165,10 +165,10 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 
 <div align="center">
 
-<a href="https://github.com/Blackamethyst-ai?tab=repositories">
+<a href="https://github.com/Dicoangelo?tab=repositories">
   <img src="https://img.shields.io/badge/View_All_Repositories-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories"/>
 </a>
-<a href="https://github.com/Blackamethyst-ai/The-Decosystem">
+<a href="https://github.com/Dicoangelo/The-Decosystem">
   <img src="https://img.shields.io/badge/Read_The_Blueprint-00d9ff?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0d1117" alt="Blueprint"/>
 </a>
 
@@ -197,7 +197,7 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 
 <br/>
 
-<a href="https://github.com/Blackamethyst-ai">
+<a href="https://github.com/Dicoangelo">
   <img src="https://img.shields.io/badge/Explore_the_Ecosystem-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explore"/>
 </a>
 <a href="https://metaventionsai.com">
