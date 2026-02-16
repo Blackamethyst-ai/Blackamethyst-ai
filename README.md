@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=DICO%20ANGELO&fontSize=70&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Sovereign%20AI%20Infrastructure&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Dico Angelo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=DICO%20ANGELO&fontSize=70&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Agent%20Infrastructure&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Dico Angelo"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Building+the+infrastructure+layer+for+agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Multi-agent+orchestration+%7C+MCP+protocol+%7C+Evaluation+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -37,40 +37,74 @@
 
 > *"Let the invention be hidden in your vision."*
 
-I build **sovereign AI infrastructure** — systems that compound intelligence, maintain context across sessions, and operate with full user agency. No vendor lock-in. No data exploitation. Just tools that work for you.
+I build **AI agent infrastructure** — multi-agent orchestration, MCP protocol servers, evaluation systems, and self-improving routing engines. Production systems with real metrics, not prototypes.
 
 <br/>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
-│                      🏛️ CHIEF OF STAFF — AI SECOND BRAIN                         │
+│                        ANTIGRAVITY — AI AGENT INFRASTRUCTURE                     │
 ├──────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                   │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │
-│  │   CAPTURE   │───▶│   STORAGE   │───▶│INTELLIGENCE │───▶│  RETRIEVAL  │       │
-│  │             │    │    TRIAD    │    │             │    │     API     │       │
-│  │ Sessions    │    │             │    │ Writer-     │    │             │       │
-│  │ URLs        │    │ SQLite      │    │ Critic      │    │ 19 REST     │       │
-│  │ Findings    │    │ Qdrant      │    │ Oracle      │    │ endpoints   │       │
-│  │ 27M tokens  │    │ Graph       │    │ Consensus   │    │ Graph viz   │       │
+│  │   CAPTURE   │───▶│   ROUTING   │───▶│ EVALUATION  │───▶│  RECOVERY   │       │
+│  │             │    │             │    │             │    │             │       │
+│  │ 58 MCP      │    │ DQ Scoring  │    │ ACE Engine  │    │ Self-Heal   │       │
+│  │ Tools       │    │ Multi-model │    │ 6-agent     │    │ 9,153       │       │
+│  │ 2 Servers   │    │ 93.1% acc   │    │ consensus   │    │ auto-fixes  │       │
 │  └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘       │
 │                                                                                   │
 │         ┌─────────────────────────────────────────────────────────────┐          │
-│         │                   GRAPH INTELLIGENCE                         │          │
-│         │   11,579 Nodes  •  13,744 Edges  •  Concept Clusters        │          │
-│         │   Sessions ──contains──▶ Findings ──cites──▶ Papers         │          │
+│         │                   AGENT ORCHESTRATION                       │          │
+│         │   11 Council Agents  •  4 Strategies  •  212 Tests         │          │
+│         │   SUPERMAX ──coordinates──▶ Specialists ──evaluate──▶ Out  │          │
 │         └─────────────────────────────────────────────────────────────┘          │
 │                                        │                                          │
 │            ┌───────────────────────────┼───────────────────────────┐             │
 │            ▼                           ▼                           ▼             │
 │     ┌─────────────┐            ┌─────────────┐            ┌─────────────┐        │
-│     │   OS-App    │            │   Career    │            │ Metaventions│        │
-│     │  Sovereign  │            │   Coach     │            │   Landing   │        │
-│     │  Interface  │            │ Antigravity │            │             │        │
+│     │  Research   │            │  Command    │            │  Frontier   │        │
+│     │  Gravity    │            │  Center     │            │  Alpha      │        │
+│     │  MCP + KG   │            │  Dashboard  │            │  AI Finance │        │
 │     └─────────────┘            └─────────────┘            └─────────────┘        │
 │                                                                                   │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+<br/>
+
+---
+
+## MCP Protocol Infrastructure
+
+<div align="center">
+
+| Server | Tools | Function |
+|:------:|:-----:|:--------:|
+| **researchgravity-ucw** | 21 | Knowledge graph, hybrid search, coherence detection, research delegation |
+| **notebooklm-ucw** | 37 | Notebook management, source curation, AI content generation |
+
+**58 production MCP tools.** Built, debugged, running daily.
+
+</div>
+
+<br/>
+
+---
+
+## Agent Orchestration
+
+<div align="center">
+
+| System | What It Does |
+|:------:|:------------:|
+| **SUPERMAX** | 11 specialist council agents with peer-to-peer coordination across 3 domains |
+| **Antigravity Coordinator** | pip-installable multi-agent framework — 212 tests, strict mypy, 93.1% accuracy |
+| **Meta-Vengine** | Self-improving routing engine — DQ scoring across Claude/GPT-4/Gemini |
+| **17 Custom Skills** | Claude Code workflow compositions: research, intel, debugging, architecture |
+| **35 Hooks** | Automation layer: velocity sampling, session optimization, error capture |
+
+</div>
 
 <br/>
 
@@ -82,66 +116,66 @@ I build **sovereign AI infrastructure** — systems that compound intelligence, 
 <tr>
 <td width="50%" valign="top">
 
-### [OS-App](https://github.com/Dicoangelo/OS-App) `v1.3`
-**Sovereign AI Operating System**
+### [Antigravity Coordinator](https://github.com/Dicoangelo/antigravity-coordinator)
+**Multi-Agent Orchestration Framework**
 
-Voice-native, multi-agent interface with ACE, RLM, and DQ Scoring. Precision Bridge architecture for Opus-quality decisions through Haiku-budget compute.
+DQ-scored routing, ACE consensus, entropy-guided allocation. Built on 64 research papers. **212 tests, pip-installable.**
 
-`TypeScript` `React` `Gemini` `ElevenLabs`
-
-</td>
-<td width="50%" valign="top">
-
-### [Agent Core](https://github.com/Dicoangelo/agent-core)
-**Unified Research Orchestration**
-
-CLI-first research workflows with session persistence, cross-environment sync, and Innovation Scout.
-
-`Python` `CLI` `Agentic`
+`Python` `SQLite` `Multi-Agent`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) `v5.0`
-**Chief of Staff — AI Second Brain**
+**Research Intelligence + MCP Servers**
 
-114 sessions, 2,530 findings, 8,935 URLs, 27M tokens. Storage Triad + Writer-Critic + Graph Intelligence with 19 API endpoints.
+8,156 sessions, 33,240 findings, 69K tool events. 21 MCP tools for knowledge graph, hybrid search, and coherence detection.
 
-`Python` `SQLite` `Qdrant` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-### [CareerCoachAntigravity](https://github.com/Dicoangelo/CareerCoachAntigravity)
-**Sovereign Career Intelligence**
-
-AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim agency in an algorithmic world.
-
-`TypeScript` `Next.js` `AI`
+`Python` `SQLite` `Qdrant` `MCP`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Meta-Vengine](https://github.com/Dicoangelo/meta-vengine) `v1.0`
-**The Invention Engine**
+### [Meta-Vengine](https://github.com/Dicoangelo/meta-vengine) `v1.2`
+**Self-Improving Routing Engine**
 
-Bidirectional co-evolution system. Claude analyzes its own patterns and modifies its own instructions. The flywheel that improves itself.
+Multi-provider routing (Claude/GPT-4/Gemini) with DQ scoring. 1,760 routing decisions. Cognitive OS for energy-aware model selection. Self-healing recovery: 9,153 auto-repairs.
 
-`Python` `JavaScript` `Co-Evolution`
+`Python` `JavaScript` `Self-Improving`
 
 </td>
 <td width="50%" valign="top">
 
-### [The-Decosystem](https://github.com/Dicoangelo/The-Decosystem)
-**Ecosystem Blueprint + Chief of Staff**
+### [Claude Command Center](https://github.com/Dicoangelo/claude-command-center)
+**Real-Time AI Infrastructure Dashboard**
 
-The architectural blueprint for sovereign AI. Chief of Staff infrastructure powers all components — capture, storage, intelligence, retrieval.
+15-tab analytics dashboard with SSE streaming. Tracks DQ scores, routing decisions, cognitive state, tool analytics, and session health in real time.
 
-`Architecture` `Blueprint` `Chief-of-Staff`
+`Python` `HTML/JS` `SSE`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [UCW](https://github.com/Dicoangelo/ucw)
+**Universal Cognitive Wallet**
+
+Cross-platform AI session capture via MCP. Captures semantic layers (data/light/instinct) per cognitive event across Claude, ChatGPT, and Gemini.
+
+`Python` `MCP` `Cross-Platform`
+
+</td>
+<td width="50%" valign="top">
+
+### [Frontier Alpha](https://github.com/Dicoangelo/frontier-alpha)
+**Cognitive Factor Intelligence Platform**
+
+AI-powered portfolio optimization with 80+ factors, episodic learning (CVRF), and explainable recommendations.
+
+`TypeScript` `Python` `AI Finance`
 
 </td>
 </tr>
@@ -157,25 +191,24 @@ The architectural blueprint for sovereign AI. Chief of Staff infrastructure powe
 
 **Languages & Frameworks**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**AI & Intelligence**
+**AI & Protocols**
 
 ![Anthropic](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-00d9ff?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Infrastructure**
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7B36ED?style=for-the-badge&logo=flydotio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -183,27 +216,22 @@ The architectural blueprint for sovereign AI. Chief of Staff infrastructure powe
 
 ---
 
-## Activity
+## By The Numbers
 
 <div align="center">
-
-<a href="https://github.com/Dicoangelo?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories"/>
-</a>
-<a href="https://github.com/Dicoangelo/The-Decosystem">
-  <img src="https://img.shields.io/badge/Read_The_Blueprint-00d9ff?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0d1117" alt="Blueprint"/>
-</a>
-
-<br/><br/>
 
 | Metric | Value |
 |:------:|:-----:|
-| **Research Sessions** | 114+ |
-| **Knowledge Nodes** | 11,579 |
-| **Graph Edges** | 13,744 |
-| **Tokens Processed** | 27M+ |
-| **API Endpoints** | 19 Live |
-| **Status** | Chief of Staff Active ✓ |
+| **MCP Tools** | 58 (2 servers) |
+| **Agent Council** | 11 specialists |
+| **Tests** | 212 passing |
+| **Routing Accuracy** | 93.1% |
+| **Sessions Captured** | 8,156 |
+| **Findings Extracted** | 33,240 |
+| **Tool Events** | 69,016 |
+| **Self-Heal Repairs** | 9,153 |
+| **Custom Skills** | 17 |
+| **Automation Hooks** | 35 |
 
 </div>
 
@@ -213,11 +241,11 @@ The architectural blueprint for sovereign AI. Chief of Staff infrastructure powe
 
 <div align="center">
 
-**Building in public. Architecting the future.**
+**Building in public. Shipping agent infrastructure.**
 
 <br/>
 
-*Currently focused on: Chief of Staff Infrastructure • Graph Intelligence • Writer-Critic Systems • Oracle Consensus*
+*Currently focused on: MCP Protocol Infrastructure • Multi-Agent Orchestration • Evaluation Systems • Self-Healing AI Infrastructure*
 
 <br/>
 
