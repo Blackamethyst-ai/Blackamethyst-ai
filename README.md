@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=DICO%20ANGELO&fontSize=70&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Agent%20Infrastructure&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Dico Angelo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=DICO%20ANGELO&fontSize=70&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Sovereign%20AI%20Agent%20Infrastructure&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Dico Angelo"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Multi-agent+orchestration+%7C+MCP+protocol+%7C+Evaluation+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=38+repos+%7C+MCP+protocol+%7C+Multi-agent+orchestration+%7C+900K%2B+LOC" alt="Typing SVG" />
 
 <br/>
 
@@ -37,37 +37,38 @@
 
 > *"Let the invention be hidden in your vision."*
 
-I build **AI agent infrastructure** — multi-agent orchestration, MCP protocol servers, evaluation systems, and self-improving routing engines. Production systems with real metrics, not prototypes.
+I build **sovereign AI agent infrastructure** — multi-agent orchestration, MCP protocol servers, evaluation systems, and self-improving routing engines. 38 repositories, 900K+ lines of production code, all CI green. Not prototypes. Production systems with real metrics.
 
 <br/>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
-│                        ANTIGRAVITY — AI AGENT INFRASTRUCTURE                     │
+│                    ANTIGRAVITY — SOVEREIGN AI INFRASTRUCTURE                     │
+│                         38 repos  •  900K+ LOC  •  All CI green                 │
 ├──────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                   │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │
-│  │   CAPTURE   │───▶│   ROUTING   │───▶│ EVALUATION  │───▶│  RECOVERY   │       │
-│  │             │    │             │    │             │    │             │       │
-│  │ 58 MCP      │    │ DQ Scoring  │    │ ACE Engine  │    │ Self-Heal   │       │
-│  │ Tools       │    │ Multi-model │    │ 6-agent     │    │ 9,153       │       │
-│  │ 2 Servers   │    │ 93.1% acc   │    │ consensus   │    │ auto-fixes  │       │
-│  └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘       │
-│                                                                                   │
-│         ┌─────────────────────────────────────────────────────────────┐          │
-│         │                   AGENT ORCHESTRATION                       │          │
-│         │   11 Council Agents  •  4 Strategies  •  212 Tests         │          │
-│         │   SUPERMAX ──coordinates──▶ Specialists ──evaluate──▶ Out  │          │
-│         └─────────────────────────────────────────────────────────────┘          │
-│                                        │                                          │
-│            ┌───────────────────────────┼───────────────────────────┐             │
-│            ▼                           ▼                           ▼             │
-│     ┌─────────────┐            ┌─────────────┐            ┌─────────────┐        │
-│     │  Research   │            │  Command    │            │  Frontier   │        │
-│     │  Gravity    │            │  Center     │            │  Alpha      │        │
-│     │  MCP + KG   │            │  Dashboard  │            │  AI Finance │        │
-│     └─────────────┘            └─────────────┘            └─────────────┘        │
-│                                                                                   │
+│                                                                                  │
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐      │
+│  │   CAPTURE   │───▶│   ROUTING   │───▶│ EVALUATION  │───▶│  RECOVERY   │      │
+│  │             │    │             │    │             │    │             │      │
+│  │ 58 MCP      │    │ DQ Scoring  │    │ ACE Engine  │    │ Self-Heal   │      │
+│  │ Tools       │    │ Multi-model │    │ 6-agent     │    │ 9,153       │      │
+│  │ 2 Servers   │    │ 93.1% acc   │    │ consensus   │    │ auto-fixes  │      │
+│  └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘      │
+│                                                                                  │
+│     ┌─────────────────────────────────────────────────────────────────┐         │
+│     │                   AGENT ORCHESTRATION                           │         │
+│     │   11 Council Agents  •  4 Strategies  •  212 Tests             │         │
+│     │   SUPERMAX ──coordinates──▶ Specialists ──evaluate──▶ Out      │         │
+│     └─────────────────────────────────────────────────────────────────┘         │
+│                                    │                                             │
+│       ┌────────────────────────────┼────────────────────────────┐               │
+│       ▼                            ▼                            ▼               │
+│ ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐            │
+│ │  Research   │  │ FriendlyFace│  │  Frontier   │  │  Parallax   │            │
+│ │  Gravity    │  │ Forensic AI │  │  Alpha      │  │ Intelligence│            │
+│ │  MCP + KG   │  │  Evidence   │  │  AI Finance │  │   Engine    │            │
+│ └─────────────┘  └─────────────┘  └─────────────┘  └─────────────┘            │
+│                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -116,12 +117,12 @@ I build **AI agent infrastructure** — multi-agent orchestration, MCP protocol 
 <tr>
 <td width="50%" valign="top">
 
-### [Antigravity Coordinator](https://github.com/Dicoangelo/antigravity-coordinator)
-**Multi-Agent Orchestration Framework**
+### [FriendlyFace](https://github.com/Dicoangelo/friendlyface)
+**Forensic AI Evidence Platform**
 
-DQ-scored routing, ACE consensus, entropy-guided allocation. Built on 64 research papers. **212 tests, pip-installable.**
+Forensic evidence generation system — SSL cert of AI, Stripe-for-compliance model. ForensicSeal is the core invention; compliance proxy is the business model.
 
-`Python` `SQLite` `Multi-Agent`
+`Python` `Forensic AI` `Evidence Generation`
 
 </td>
 <td width="50%" valign="top">
@@ -129,9 +130,31 @@ DQ-scored routing, ACE consensus, entropy-guided allocation. Built on 64 researc
 ### [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) `v5.0`
 **Research Intelligence + MCP Servers**
 
-8,156 sessions, 33,240 findings, 69K tool events. 21 MCP tools for knowledge graph, hybrid search, and coherence detection.
+8,156 sessions, 33,240 findings, 69K tool events. 21 MCP tools for knowledge graph, hybrid search, and coherence detection. Temporal knowledge graph + ReACT synthesis.
 
 `Python` `SQLite` `Qdrant` `MCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OS-App](https://github.com/Dicoangelo/OS-App)
+**Sovereign AI Operating System**
+
+React 19 + Vite + Zustand. Self-Evolution Protocol, Dream Protocol, Convergence Memory. The desktop shell for the Antigravity ecosystem.
+
+`React 19` `Vite` `Zustand` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [CareerCoachAntigravity](https://github.com/Dicoangelo/CareerCoachAntigravity)
+**Career Intelligence Platform**
+
+Next.js 15 with NSRG (229 patterns) and Multi-Agent Hiring Committee. AI-powered career coaching with deep job market analysis.
+
+`Next.js 15` `TypeScript` `Multi-Agent`
 
 </td>
 </tr>
@@ -148,12 +171,12 @@ Multi-provider routing (Claude/GPT-4/Gemini) with DQ scoring. 1,760 routing deci
 </td>
 <td width="50%" valign="top">
 
-### [Claude Command Center](https://github.com/Dicoangelo/claude-command-center)
-**Real-Time AI Infrastructure Dashboard**
+### [Frontier Alpha](https://github.com/Dicoangelo/frontier-alpha)
+**Cognitive Factor Intelligence Platform**
 
-15-tab analytics dashboard with SSE streaming. Tracks DQ scores, routing decisions, cognitive state, tool analytics, and session health in real time.
+AI-powered portfolio optimization with 80+ factors, episodic learning (CVRF), and explainable recommendations.
 
-`Python` `HTML/JS` `SSE`
+`TypeScript` `Python` `AI Finance`
 
 </td>
 </tr>
@@ -163,19 +186,41 @@ Multi-provider routing (Claude/GPT-4/Gemini) with DQ scoring. 1,760 routing deci
 ### [UCW](https://github.com/Dicoangelo/ucw)
 **Universal Cognitive Wallet**
 
-Cross-platform AI session capture via MCP. Captures semantic layers (data/light/instinct) per cognitive event across Claude, ChatGPT, and Gemini.
+Cross-platform AI session capture via MCP. 12.15M graph links, $META token, cognitive equity protocol. Captures semantic layers across Claude, ChatGPT, and Gemini.
 
 `Python` `MCP` `Cross-Platform`
 
 </td>
 <td width="50%" valign="top">
 
-### [Frontier Alpha](https://github.com/Dicoangelo/frontier-alpha)
-**Cognitive Factor Intelligence Platform**
+### [Parallax](https://github.com/Dicoangelo/parallax)
+**Intelligence Engine**
 
-AI-powered portfolio optimization with 80+ factors, episodic learning (CVRF), and explainable recommendations.
+Multi-perspective analysis and synthesis engine. Parallel intelligence processing for deep research and strategic insight generation.
 
-`TypeScript` `Python` `AI Finance`
+`Python` `Intelligence` `Synthesis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MetaGravity](https://github.com/Dicoangelo/metagravity)
+**Desktop Infrastructure**
+
+Desktop-native infrastructure layer for the Antigravity ecosystem. Local-first compute, sovereign data management, and cross-application orchestration.
+
+`Desktop` `Infrastructure` `Local-First`
+
+</td>
+<td width="50%" valign="top">
+
+### [dicoangelo.metaventions](https://github.com/Dicoangelo/dicoangelo.metaventions)
+**Portfolio Showcase**
+
+Personal portfolio site showcasing the full Antigravity ecosystem. Built on the Metaventions AI design system with live project demos and metrics.
+
+`Web` `Portfolio` `Design System`
 
 </td>
 </tr>
@@ -222,16 +267,23 @@ AI-powered portfolio optimization with 80+ factors, episodic learning (CVRF), an
 
 | Metric | Value |
 |:------:|:-----:|
+| **Repositories** | 38 |
+| **Lines of Code** | 900K+ |
 | **MCP Tools** | 58 (2 servers) |
 | **Agent Council** | 11 specialists |
 | **Tests** | 212 passing |
 | **Routing Accuracy** | 93.1% |
+| **Graph Links** | 12.15M |
+| **Cognitive Events** | 140,732 |
 | **Sessions Captured** | 8,156 |
 | **Findings Extracted** | 33,240 |
 | **Tool Events** | 69,016 |
 | **Self-Heal Repairs** | 9,153 |
+| **Cache Efficiency** | 99.88% |
+| **DQ Score Average** | 0.889 |
 | **Custom Skills** | 17 |
 | **Automation Hooks** | 35 |
+| **CI Status** | All green |
 
 </div>
 
@@ -241,11 +293,11 @@ AI-powered portfolio optimization with 80+ factors, episodic learning (CVRF), an
 
 <div align="center">
 
-**Building in public. Shipping agent infrastructure.**
+**Building in public. Shipping sovereign agent infrastructure.**
 
 <br/>
 
-*Currently focused on: MCP Protocol Infrastructure • Multi-Agent Orchestration • Evaluation Systems • Self-Healing AI Infrastructure*
+*Currently focused on: Forensic AI (FriendlyFace) • Research Intelligence (ResearchGravity) • Sovereign OS (OS-App) • Career Intelligence (CareerCoach) • Portfolio Optimization (Frontier Alpha) • Cross-Platform Capture (UCW)*
 
 <br/>
 
